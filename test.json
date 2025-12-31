@@ -1,0 +1,31 @@
+[ {
+  "title" : "1984",
+  "author" : "George Orwell",
+  "price" : "9.99",
+  "publishDate" : "1949-06-08",
+  "onLoan" : false
+}, {
+  "title" : "The Hobbit",
+  "author" : "J.R.R. Tolkien",
+  "price" : "12.5",
+  "publishDate" : "1937-09-21",
+  "onLoan" : true
+}, {
+  "title" : "Dune",
+  "author" : "Frank Herbert",
+  "price" : "15.0",
+  "publishDate" : "1965-08-01",
+  "onLoan" : false
+}, {
+  "title" : "escape",
+  "author" : "jeff",
+  "price" : "9",
+  "publishDate" : "2000-11-11",
+  "onLoan" : false
+}, {
+  "title" : "test",
+  "author" : "test",
+  "price" : "9",
+  "publishDate" : "2000-11-11",
+  "onLoan" : false
+} ]
